@@ -2,7 +2,7 @@
 
 A bit about me, from 2023 to 2025, I spent two years at Cornell University working with [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) on NLP research.
 
-Right now, I'm splitting my time between research and building [Meridius](https://davidakinboro.com), a group of strong minds working on sound research, maximizing impact and deploying production systems.
+Right now, I'm splitting my time between research and building [Meridius], a group of strong minds working on sound research, maximizing impact and deploying production systems.
 
 ## What We're building
 
@@ -19,7 +19,7 @@ My thesis explored how search-augmented RL can make legal AI less of a mystery b
 ## Research
 - 🎓 MS Computer Science, Cornell University (2025)
 - 📄 Thesis: [Interpretable Legal Reasoning with Search-Augmented RL]
-- 👨‍🏫 Advised by [Prof. Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [=Emmad Manzoor](https://emaadmanzoor.com/) 
+- 👨‍🏫 Advised by [Prof. Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Emmad Manzoor](https://emaadmanzoor.com/) 
 
 ## Tech Focus
 RL post-training • Safety systems • Production ML • Interpretability/Explainability • Real-time systems • LLMs & more
