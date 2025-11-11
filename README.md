@@ -4,11 +4,11 @@ A bit about me, from 2023 to 2025, I spent two years at Cornell University worki
 
 Right now, I'm splitting my time between research and building [Meridius], a group of strong minds working on sound research, maximizing impact and deploying production systems.
 
-## What We're building
+## What I'm building
 
-**[LexLens](https://lexlens.app)** — Legal AI that shows its work. Turns out judges and lawyers really care about *why* a model makes a decision. We hit 95% accuracy with full interpretability. No magic, just good engineering.
+**[LexLens](https://lexlens.app)** — Interpretable legal AI with constitutional safety (95% accuracy).
 
-**[Meetviro](https://meetviro.com/)** — An autonomous meeting agent, launching in January. 1000+ people waiting, which is equal parts exciting and terrifying.
+**[Meetviro](https://meetviro.com/)** — An autonomous meeting agent, launching in January. 1000+ people waiting.
 
 **Ingenium** — E-learning platform where AI actually helps you learn, not just gives you answers.
 
