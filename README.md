@@ -1,31 +1,39 @@
 # Hey, I'm David, an AI Researcher 👋
 
-A bit about me, from 2023 to 2025, I spent two years at Cornell University working with [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) on NLP research.
+Just finished my MS at Cornell (2025) working with [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) 
+and [Emmad Manzoor](https://emaadmanzoor.com/) on search-augmented RL for legal reasoning.
 
-Right now, I'm splitting my time between research and building [Meridius], a group of strong minds working on sound research, maximizing impact and deploying production systems.
+Now running [Meridius], a research lab focused on deploying responsible AI from research to production.
 
-## What I'm building
+## What I'm Building
 
-**[LexLens](https://lexlens.app)** — Interpretable legal AI with constitutional safety (95% accuracy).
+**[LexLens](https://lexlens.app)** — Interpretable legal AI with constitutional 
+safety. Achieved 100% source verification with +10.5pp accuracy gains over baselines.
 
-**[Meetviro](https://meetviro.com/)** — An autonomous meeting agent, launching in January. 1000+ people waiting.
+**[Meetviro](https://meetviro.com/)** — Autonomous meeting agent with bounded autonomy. 
+Pre-launch (1,000+ waitlist).
 
-**Ingenium** — E-learning platform where AI actually helps you learn, not just gives you answers.
-
-## Background
-
-My thesis explored how search-augmented RL can make legal AI less of a mystery box through causal inference and an AI safety framework. I defended my MS in September 2025.
+**Ingenium** — E-learning AI that increases course completion from 10% to 40% through 
+proactive engagement.
 
 ## Research
+
 - 🎓 MS Computer Science, Cornell University (2025)
-- 📄 Thesis: [Interpretable Legal Reasoning with Search-Augmented RL]
-- 👨‍🏫 Advised by [Prof. Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Emmad Manzoor](https://emaadmanzoor.com/) 
+- 📄 Thesis: Interpretable Legal Reasoning with Search-Augmented RL
+- 👨‍🏫 Advised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and 
+[Emmad Manzoor](https://emaadmanzoor.com/)
+
+My thesis explored how agents can learn optimal retrieval strategies during training
+(not just inference), combined with constitutional AI safety frameworks and causal 
+interpretability. Deployed as LexLens, now serving legal practitioners.
 
 ## Tech Focus
-RL post-training • Safety systems • Production ML • Interpretability/Explainability • Real-time systems • LLMs & more
+
+Pre-training • Post-training (RLHF/GRPO) • Safety & Alignment • Interpretability • 
+Distributed Training • Production ML Systems
 
 ---
 
-**Reach out:** daa238@cornell.edu  
-**Site:** [davidakinboro.com](https://davidakinboro.com)  
+**Contact:** daa238@cornell.edu  
+**Website:** [davidakinboro.com](https://davidakinboro.com)  
 **LinkedIn:** [davidakinboro](https://linkedin.com/in/davidakinboro)
