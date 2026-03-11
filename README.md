@@ -1,39 +1,39 @@
-# Hey, I'm David, an AI Researcher 👋
+# David Akinboro
 
-Just finished my MS at Cornell (2025) working with [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) 
-and [Emmad Manzoor](https://emaadmanzoor.com/) on search-augmented RL for legal reasoning.
+Technical founder and research engineer. I work on reinforcement learning for reasoning systems - specifically, how agents learn when to retrieve, when to reason, and when to hypothesize.
 
-Now running [Meridius], a research lab focused on deploying responsible AI from research to production.
+My thesis at Cornell introduced search-augmented RL for legal reasoning, achieving a 10.5pp improvement on LegalBench through tool-assisted training with GRPO.
 
-## What I'm Building
-
-**[LexLens](https://lexlens.app)** — Interpretable legal AI with constitutional 
-safety. Achieved 100% source verification with +10.5pp accuracy gains over baselines.
-
-**[Meetviro](https://meetviro.com/)** — Autonomous meeting agent with bounded autonomy. 
-Pre-launch (1,000+ waitlist).
-
-**Ingenium** — E-learning AI that increases course completion from 10% to 40% through 
-proactive engagement.
-
-## Research
-
-- 🎓 MS Computer Science, Cornell University (2025)
-- 📄 Thesis: Interpretable Legal Reasoning with Search-Augmented RL
-- 👨‍🏫 Advised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and 
-[Emmad Manzoor](https://emaadmanzoor.com/)
-
-My thesis explored how agents can learn optimal retrieval strategies during training
-(not just inference), combined with constitutional AI safety frameworks and causal 
-interpretability. Deployed as LexLens, now serving legal practitioners.
-
-## Tech Focus
-
-Pre-training • Post-training (RLHF/GRPO) • Safety & Alignment • Interpretability • 
-Distributed Training • Production ML Systems
+I founded [Aeve](https://aevelabs.co), an AI research foundry. I co-founded [Miola](https://miolahealth.com), building health data infrastructure.
 
 ---
 
-**Contact:** daa238@cornell.edu  
-**Website:** [davidakinboro.com](https://davidakinboro.com)  
-**LinkedIn:** [davidakinboro](https://linkedin.com/in/davidakinboro)
+## Research
+
+| Year | Work |
+|------|------|
+| 2025 | **Interpretable Search-Augmented Reinforcement Learning for Legal Reasoning** — MS Thesis, Cornell University. Advisor: Claire Cardie. · [ArXiv (coming soon)](#) · [Code](https://github.com/UPSD1/LegalReasoner) |
+
+Research interests: post-training (RLHF/GRPO), search-augmented reasoning, interpretability, production ML systems.
+
+---
+
+## Building
+
+| | |
+|---|---|
+| **Aeve** | AI research foundry. Research, engineering, and product brought together to build intelligence infrastructure. [aevelabs.co](https://aevelabs.co) |
+| **Miola** | Health data infrastructure for Africa. Ground-level data tokenization for health information exchange. [miolahealth.com](https://miolahealth.com) |
+
+---
+
+## Selected Builds
+
+| | |
+|---|---|
+| **LexLens** | Legal AI research output. Interpretable legal reasoning with constitutional safety. [lexlens.app](https://lexlens.app) |
+| **MeetViro** | Autonomous meeting agent with social intelligence. Built by the Aeve team. [meetviro.com](https://meetviro.com) |
+
+---
+
+[Website](https://davidakinboro.com) · [Writing](https://davidakinboro.com/writing) · [LinkedIn](https://linkedin.com/in/davidakinboro) · [Google Scholar](#) · [Twitter](https://x.com/davidakinboro)
