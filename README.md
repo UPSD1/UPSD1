@@ -4,7 +4,7 @@ Technical founder and research engineer. I work on reinforcement learning for re
 
 My thesis at Cornell introduced search-augmented RL for legal reasoning, achieving a 10.5pp improvement on LegalBench through tool-assisted training with GRPO.
 
-I founded [Aeve](https://aevelabs.co), an AI research foundry. I co-founded [Miola](https://miolahealth.com), building health data infrastructure.
+I founded [Aeve](https://aevelabs.co), an AI research foundry.
 
 ---
 
@@ -23,7 +23,6 @@ Research interests: post-training (RLHF/GRPO), search-augmented reasoning, inter
 | | |
 |---|---|
 | **Aeve** | AI research foundry. Research, engineering, and product brought together to build intelligence infrastructure. [aevelabs.co](https://aevelabs.co) |
-| **Miola** | Health data infrastructure for Africa. Ground-level data tokenization for health information exchange. [miolahealth.com](https://miolahealth.com) |
 
 ---
 
@@ -36,4 +35,4 @@ Research interests: post-training (RLHF/GRPO), search-augmented reasoning, inter
 
 ---
 
-[Website](https://davidakinboro.com) · [Writing](https://davidakinboro.com/writing) · [LinkedIn](https://linkedin.com/in/davidakinboro) · [Google Scholar](#) · [Twitter](https://x.com/davidakinboro)
+[Website](https://davidakinboro.com) · [Writing](https://davidakinboro.com/writing) · [LinkedIn](https://linkedin.com/in/davidakinboro) · [Twitter](https://x.com/davidakinboro)
